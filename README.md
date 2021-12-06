@@ -4,9 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-![Apple iPhone 8 Plus Presentation](https://user-images.githubusercontent.com/54605034/144774179-dffffe61-f98f-4869-9573-86120c2fbd17.png)
-
-
+![Apple iPhone 8 Plus Presentation (1)](https://user-images.githubusercontent.com/54605034/144774592-b13ea553-c1d6-4930-b06e-91387b00d132.png)
 
 
 This project is a starting point for a Flutter application.

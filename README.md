@@ -10,7 +10,8 @@ Light Mode :
 
 Dark Mode :
 
-![Apple iPhone 11 Pro Max Presentation (2)](https://user-images.githubusercontent.com/54605034/144778795-734a25b6-9996-478c-ad75-ddc5a98b01e6.png)
+![Apple iPhone 8 Plus Presentation (3)](https://user-images.githubusercontent.com/54605034/144780114-ce119385-8c2c-49a0-93d2-58db6bd7557b.png)
+
 
 
 

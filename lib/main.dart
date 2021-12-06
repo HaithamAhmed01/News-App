@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
                 navigateRoute: NewsLayout(),
                 duration: 5000,
                 imageSize: 130,
-                imageSrc: "assets/images/news_app.jpg",
+                imageSrc: "assets/images/icon.jpg",
                 text: "News App",
                 textType: TextType.ColorizeAnimationText,
                 textStyle: const TextStyle(

@@ -3,8 +3,10 @@
 A new Flutter application.
 
 ## Getting Started
-
-![Apple iPhone 8 Plus Presentation (1)](https://user-images.githubusercontent.com/54605034/144774592-b13ea553-c1d6-4930-b06e-91387b00d132.png)
+Light Mode
+![Apple iPhone 11 Pro Max Presentation (2)](https://user-images.githubusercontent.com/54605034/144778795-734a25b6-9996-478c-ad75-ddc5a98b01e6.png)
+Dark Mode
+![Apple iPhone 11 Pro Max Presentation (1)](https://user-images.githubusercontent.com/54605034/144778855-efaa25e2-d6cd-4962-8c91-c45a0edbf7ee.png)
 
 
 This project is a starting point for a Flutter application.

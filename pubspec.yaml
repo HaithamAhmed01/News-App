@@ -39,7 +39,7 @@ dependencies:
   flutter_bloc: ^7.0.1
   shared_preferences: ^2.0.6
   hexcolor: ^2.0.4
-  webview_flutter: ^2.0.8
+  webview_flutter:
   dio: ^4.0.0
   smooth_page_indicator: ^1.0.0+2
   fluttertoast: ^8.0.7

@@ -7,15 +7,6 @@ class AppCubit extends Cubit<AppStates> {
   AppCubit() : super(AppInitialState());
 
   static AppCubit get(context) => BlocProvider.of(context);
-  int currentIndex = 0;
-
-
-  void changeIndex(int index) {
-    currentIndex = index;
-
-    emit(AppChangeBottomNavBarState());
-  }
-
   bool? isDark = true;
 
   void changeAppMode({bool? fromShared}) {

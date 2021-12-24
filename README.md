@@ -4,6 +4,10 @@ A new Flutter application.
 
 ## Getting Started
 
+Flutter application using Bloc,  Dio, and shared preferences.
+
+Application is responsible for getting news for different topics like Business, Sports, and Science which are stored in an API. I used Dio to get data.
+
 Light Mode :
 
 ![Apple iPhone 11 Pro Max Presentation (1)](https://user-images.githubusercontent.com/54605034/144778855-efaa25e2-d6cd-4962-8c91-c45a0edbf7ee.png)
